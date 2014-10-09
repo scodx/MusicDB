@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Symfony Standard Edition
 ========================
 
@@ -168,3 +169,9 @@ Enjoy!
 [11]: http://symfony.com/doc/2.4/cookbook/logging/monolog.html
 [12]: http://symfony.com/doc/2.4/cookbook/assetic/asset_management.html
 [13]: http://symfony.com/doc/2.4/bundles/SensioGeneratorBundle/index.html
+=======
+MusicDB
+=======
+
+Repo de una app minimalista de adminsitración de Music (Artist, albums) hecha con Symfony2
+>>>>>>> b24c589697c347a04b9d92850b2fc934146100ef
