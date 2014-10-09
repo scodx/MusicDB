@@ -1,0 +1,5 @@
+interfaz_music_db_admin_homepage:
+    path: /
+    defaults:
+        _controller: FrameworkBundle:Template:template
+        template:    'InterfazMusicDBAdminBundle:Default:index.html.twig'

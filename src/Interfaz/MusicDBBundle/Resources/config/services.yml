@@ -1,0 +1,7 @@
+parameters:
+#    interfaz_music_db.example.class: Interfaz\MusicDBBundle\Example
+
+services:
+#    interfaz_music_db.example:
+#        class: %interfaz_music_db.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

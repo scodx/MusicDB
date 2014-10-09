@@ -1,0 +1,12 @@
+
+
+agregar_album:
+    path: /agregar_album
+    defaults: { _controller: InterfazMusicDBBundle:Album:agregar }
+
+test:
+    path: /test
+    defaults: { _controller: InterfazMusicDBBundle:Album:test }
+
+
+

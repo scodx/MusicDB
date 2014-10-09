@@ -1,0 +1,9 @@
+interfaz_music_db_admin:
+    resource: "@InterfazMusicDBAdminBundle/Resources/config/routing.yml"
+    prefix:   /admin
+
+interfaz_music_db:
+    resource: "@InterfazMusicDBBundle/Resources/config/routing.yml"
+    prefix:   /
+
+
